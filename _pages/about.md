@@ -14,3 +14,5 @@ I am passionate about understanding the impact of emerging digital technologies 
 Using the Web3 industry as a primary empirical context, my current research examines how digital ventures can leverage emergent fashionable digital technologies to gain investor support in nascent markets. In related work, I investigate how technical designs on open digital platforms, such as platform compatibility and forking mechanisms, influence the strategic outcomes for both platform users and owners.
 
 Looking toward the next phase of digital transformation, I am also interested in AI-delegated decision-making. My ongoing work explores how AI agents may enhance user satisfaction by breaking the preference reinforcement through constructive conflict.
+
+📢**I am currently on the 2026 academic job market!**
