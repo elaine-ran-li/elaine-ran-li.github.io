@@ -15,4 +15,4 @@ Using the Web3 industry as a primary empirical context, my current research exam
 
 Looking toward the next phase of digital transformation, I am also interested in AI-delegated decision-making. My ongoing work explores how AI agents may enhance user satisfaction by breaking the preference reinforcement through constructive conflict.
 
-<p align="center">📢 <strong>I am currently on the 2026 job market.</strong></p>
+<p align="center">📢 <strong>I am currently on the 2026 job market (Expected Graduation: July 2026).</strong></p>

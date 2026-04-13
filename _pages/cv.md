@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Please download my CV
+Please download my [CV](/files/CV_Ran.pdf)
